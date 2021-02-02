@@ -1,4 +1,6 @@
-
+// 1) Creating a variable
+// in this example I create varable a, variable b and variable sum
+// i show the value of sum in the console.
 
 var a = 10;
 var b = 3;
@@ -6,6 +8,8 @@ var sum = a+b;
 console.log(sum);
 
 // Data type (total 5)
+// 1) Sting - character, sentence or word
+// you use '' of "" to define a string
 var name= "Rahimi";
 console.log(name);
 var sentence = "I'm Happy"
